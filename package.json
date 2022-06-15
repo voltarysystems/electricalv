@@ -1,0 +1,14 @@
+{
+  "name": "electricalv",
+  "version": "1.0.0",
+  "description": "A simple Electron.JS application for calculating some things more easily. Made by: Jerryyy",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jerryyy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.4"
+  }
+}
